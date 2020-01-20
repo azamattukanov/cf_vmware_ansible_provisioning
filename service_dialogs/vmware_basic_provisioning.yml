@@ -378,7 +378,7 @@
         required: true
         required_method:
         required_method_options: {}
-        default_value: cfme
+        default_value: vm-aza
         values:
         values_method:
         values_method_options: {}
